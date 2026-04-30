@@ -37,7 +37,7 @@ function App() {
     <div className="font-sans bg-purple-950 text-white overflow-x-hidden">
       <head> 
         <title  >RG compnay  </title>
-        <img  rel="icon" type="image/png" href="../images/icon.png" />
+        <img alt="icon"  rel="icon" type="image/png" href="../images/icon.png" />
       </head>
       {/* Hero Section */}
       <header className="bg-purple-950 text-white min-h-screen">
