@@ -35,8 +35,14 @@ function App() {
 
   return (
     <div className="font-sans bg-purple-950 text-white overflow-x-hidden">
+      <head> 
+        <title  >RG compnay  </title>
+        <img  rel="icon" type="image/png" href="../images/icon.png" />
+      </head>
       {/* Hero Section */}
       <header className="bg-purple-950 text-white min-h-screen">
+        
+
         <div className="sticky top-0 z-50 backdrop-blur-md bg-purple-950/80 border-b border-purple-800/70">
           <div className="container mx-auto px-4">
             {/* Navbar */}
