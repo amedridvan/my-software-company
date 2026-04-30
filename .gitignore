@@ -8,7 +8,7 @@
 # testing
 /coverage
 /node_modules 
-.tailwind.config
+/.tailwind.config
 .package-lock.json
 .package.json
 
