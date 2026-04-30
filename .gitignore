@@ -8,9 +8,9 @@
 # testing
 /coverage
 /node_modules 
-/tailwind.config
-/package-lock.json
-/package.json
+.tailwind.config
+.package-lock.json
+.package.json
 
 
 # production
